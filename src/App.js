@@ -7,7 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Name: Gillian Zech
+          Favorite Pastimes: Mahjong, board games, casual video games, hackathons, juggling
+          Pictures/Videos: <img></img>
+          Major: 
+          Hometown: Raleigh, North Carolina
         </p>
         <a
           className="App-link"
